@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    border: 2px solid #cdcdcd;
+  }
+  
+  /* css for main div  */
+  
+  .main_div {
+    width: 100%;
+    height: 100%;
+    border: 10px solid black;
+    /* background-color: #008541; */
+  }
+  
+  /* css for row first  */
+  
+  .heading_div {
+    height: 90px;
+    background-color: #64a8ff;
+  }
